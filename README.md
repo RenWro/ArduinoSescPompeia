@@ -1,7 +1,10 @@
-# ArduinoSescPompeia
+<h1>ArduinoSescPompeia</h1> 
 
 
 <h3>Drive de códigos</h3>
+1. [Definição Mozilla Keydown](https://developer.mozilla.org/pt-BR/docs/Web/API/Element/keydown_event)
+2. [Definição NODE.js](https://developer.mozilla.org/pt-BR/docs/Web/API/Node/textContent)
+3. [Fundamentos de DOM - Alura](https://techguide.sh/pt-BR/path/front-end/dom-fundamentals/)
 <a href="https://drive.google.com/drive/folders/1UhU32xJZEcHGRwxVg0Micw0Ssgh8YIiU"> </a>
 
 <h3>Apresentação</h3>
